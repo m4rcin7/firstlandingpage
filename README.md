@@ -26,7 +26,7 @@ This project was inspired by the [Trello free landing page](https://www.figma.co
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/markopersonally/firstlandingpage.git
+  git clone https://github.com/m4rcin7/firstlandingpage.git
   npm install
   npm start
 ```

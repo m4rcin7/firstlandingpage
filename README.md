@@ -4,7 +4,7 @@
 Inspiration:
 This project was inspired by the [Trello free landing page](https://www.figma.com/community/file/1067291706100571818).
 
-## Demo: [link here](https://markopersonally.github.io/firstlandingpage/)
+## Demo: [link here](https://m4rcin7.github.io/firstlandingpage/)
 
 
 
